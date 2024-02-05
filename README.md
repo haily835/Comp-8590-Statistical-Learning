@@ -1,3 +1,3 @@
 # Statistical-Learning
 
-jupyter nbconvert decision_tree.ipynb --to latex
+jupyter nbconvert --output-dir './Q9' decision_tree.ipynb --to latex
